@@ -1,0 +1,5 @@
+VSCode/
+ffmpeg/
+python/
+__pycache__/
+*.pyc
